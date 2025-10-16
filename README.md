@@ -1,1 +1,1 @@
-
+For the review we created simplified version that you could interact with. To reduce the overhead of running we provided an output of the system, which includes the investigation and the generated report.
