@@ -18,9 +18,8 @@ However, manual review is a significant bottleneck. It is resource-intensive, ti
 **Our system addresses this exact problem.** By serving as an automated Fraud Investigation Agent (FIA), it takes over the manual review process. It autonomously investigates flagged alerts, analyzes the underlying transaction data for complex patterns, and generates comprehensive, stakeholder-ready reports. This drastically reduces the cognitive load and manual overhead on human analysts while preserving the thoroughness required for compliance and continuous system improvement.
 
 ## Information for the Reviewer
-Currently we did not provide the code for the system, but we provided the prompts used to generate the investigation and the report.
-We will release the full code for the system with acceptence of the paper.
-For now we provided an investigation output of the FIA, which includes the investigation and the generated report.
+We provided the prompts used to generate the investigation and the report, along with reproduction of both the detection models and our results.
+In addition we provided an investigation output of the FIA, which includes the investigation and the generated report.
 
 
 ## Prompts
